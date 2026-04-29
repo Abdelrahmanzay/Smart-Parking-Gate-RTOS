@@ -1,0 +1,30 @@
+# Keil build outputs
+Objects/
+Listings/
+*.o
+*.d
+*.axf
+*.htm
+*.map
+*.lnp
+*.dep
+*.sct
+
+# Keil user/session files
+*.uvguix.*
+*.uvgui.*
+*.uvmpw
+*.uvoptx.bak
+*.uvprojx.bak*
+*.bak_codex*
+
+# Local/editor files
+.vscode/
+.vs/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Logs
+codex_build.log
